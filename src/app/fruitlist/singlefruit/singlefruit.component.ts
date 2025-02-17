@@ -26,5 +26,4 @@ export class SinglefruitComponent {
     this.fruitname.emit(this.inputData);
     this.inputData="";
   }
-
 }
